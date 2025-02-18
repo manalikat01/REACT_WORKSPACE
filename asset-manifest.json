@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/manalikat01/REACT_WORKSPACE/static/css/main.f855e6bc.css",
+    "main.js": "/manalikat01/REACT_WORKSPACE/static/js/main.90a09a67.js",
+    "static/js/453.9e58944d.chunk.js": "/manalikat01/REACT_WORKSPACE/static/js/453.9e58944d.chunk.js",
+    "static/media/logo.svg": "/manalikat01/REACT_WORKSPACE/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/manalikat01/REACT_WORKSPACE/index.html",
+    "main.f855e6bc.css.map": "/manalikat01/REACT_WORKSPACE/static/css/main.f855e6bc.css.map",
+    "main.90a09a67.js.map": "/manalikat01/REACT_WORKSPACE/static/js/main.90a09a67.js.map",
+    "453.9e58944d.chunk.js.map": "/manalikat01/REACT_WORKSPACE/static/js/453.9e58944d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.90a09a67.js"
+  ]
+}
